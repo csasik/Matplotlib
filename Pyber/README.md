@@ -8,7 +8,7 @@ The dataset contains information about every active driver and historic ride, in
 
 Average Fare ($) Per City
 
-![Pyber Ride Sharing.png](Pyber Ride Sharing.png)
+![Pyber_Ride_Sharing.png](Pyber_Ride_Sharing.png)
 
 Total Number of Rides Per City
 
@@ -18,7 +18,7 @@ Total Number of Drivers Per City
 ![Total_Drivers_City_Type.png](Total_Drivers_City_Type.png)
 
 City Type (Urban, Suburban, Rural)
-![Pyber Ride Sharing.png](Pyber Ride Sharing.png)
+![Pyber_Ride_Sharing.png](Pyber_Ride_Sharing.png)
 
 The pie charts represents:
 
