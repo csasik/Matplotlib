@@ -7,7 +7,7 @@ The dataset is from a most recent animal study. In this study, 250 mice were tre
 Created a scatter plot that shows how the tumor volume changes over time for each treatment.
 Created a scatter plot that shows how the number of metastatic (cancer spreading) sites changes over time for each treatment.
 Created a scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate)
-Created a bar graph that compares the total % tumor volume change for each drug across the full 45 days.
+Created a bar graph that compares the total percentage tumor volume change for each drug across the full 45 days.
 
 ![TumorChangeOver45Days.png](TumorChangeOver45Days.png)
 
