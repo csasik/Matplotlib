@@ -15,7 +15,7 @@ Total Number of Rides Per City
 ![Total_Rides_City_Type.png](Total_Rides_City_Type.png)
 
 Total Number of Drivers Per City
-![Total_Drivers_City_Type.png](Total_Driders_City_Type.png)
+![Total_Drivers_City_Type.png](Total_Drivers_City_Type.png)
 
 City Type (Urban, Suburban, Rural)
 ![Pyber Ride Sharing.png](Pyber Ride Sharing.png)
