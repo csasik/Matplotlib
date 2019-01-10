@@ -8,7 +8,7 @@ The dataset contains information about every active driver and historic ride, in
 
 Average Fare ($) Per City
 
-![Pyber Ride Sharing.png](Pyber Ride Sharing.png)
+![Pyber/Pyber Ride Sharing.png](Pyber/Pyber Ride Sharing.png)
 
 Total Number of Rides Per City
 
