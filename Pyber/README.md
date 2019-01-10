@@ -10,21 +10,15 @@ Average Fare ($) Per City
 
 ![Pyber_Ride_Sharing.png](Pyber_Ride_Sharing.png)
 
-Total Number of Rides Per City
+Percentage of Total Number of Rides Per City
 
 ![Total_Rides_City_Type.png](Total_Rides_City_Type.png)
 
-Total Number of Drivers Per City
+Percentage of Total Number of Drivers Per City
+
 ![Total_Drivers_City_Type.png](Total_Drivers_City_Type.png)
 
-City Type (Urban, Suburban, Rural)
-![Pyber_Ride_Sharing.png](Pyber_Ride_Sharing.png)
 
-The pie charts represents:
-
-% of Total Fares by City Type
-% of Total Rides by City Type
-% of Total Drivers by City Type
 
  #Using
   Pandas Library, Jupyter Notebook, Matplotlib library.
