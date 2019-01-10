@@ -1,30 +1,25 @@
 ## Matplotlib The Power of Plots
 
-# Analysis of ride sharing data 
+# Analysis of Clinical trials 
 
-![Ride.png](Ride.png)
+The dataset is from a most recent animal study. In this study, 250 mice were treated through a variety of drug regimes over the course of 45 days. Their physiological responses were then monitored over the course of that time. The objective is to analyze the data to show how four treatments (Capomulin, Infubinol, Ketapril, and Placebo) compare.
 
-The dataset contains information about every active driver and historic ride, including details like city, driver count, individual fares, and city type. Using this dataset I am building a Bubble Plot that showcases the relationship between four key variables:
+Created a scatter plot that shows how the tumor volume changes over time for each treatment.
+Created a scatter plot that shows how the number of metastatic (cancer spreading) sites changes over time for each treatment.
+Created a scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate)
+Created a bar graph that compares the total % tumor volume change for each drug across the full 45 days.
 
-Average Fare ($) Per City
+![TumorChangeOver45Days.png](TumorChangeOver45Days.png)
 
-![Pyber Ride Sharing.png](Pyber Ride Sharing.png)
 
-Total Number of Rides Per City
+![TumorResponseTreatment.png](TumorResponseTreatment.png)
 
-![Total_Rides_City_Type.png](Total_Rides_City_Type.png)
 
-Total Number of Drivers Per City
-![Total_Drivers_City_Type.png](Total_Drivers_City_Type.png)
+![SurvivalduringTreatment.png](SurvivalduringTreatment.png)
 
-City Type (Urban, Suburban, Rural)
-![Pyber Ride Sharing.png](Pyber Ride Sharing.png)
+![MetaStaticSpreadduringTreatment.png](MetaStaticSpreadduringTreatment.png)
 
-The pie charts represents:
 
-% of Total Fares by City Type
-% of Total Rides by City Type
-% of Total Drivers by City Type
 
  #Using
   Pandas Library, Jupyter Notebook, Matplotlib library.
